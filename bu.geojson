@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.117567,
+          42.353547
+        ]
+      },
+      "properties": {
+        "Stop Number": "M1",
+        "Stop Name": "Student Village 2",
+        "Street Address": "33 Harry Agganis Way, Boston, MA",
+        "Direction": "Inbound to Medical Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.113783,
+          42.350746
+        ]
+      },
+      "properties": {
+        "Stop Number": "M2",
+        "Stop Name": "Amory St.",
+        "Street Address": "Commonwealth Ave. @ Amory St., Boston, MA",
+        "Direction": "Inbound to Medical Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.106613,
+          42.349888
+        ]
+      },
+      "properties": {
+        "Stop Number": "M3",
+        "Stop Name": "St. Mary's St.",
+        "Street Address": "Commonwealth Ave. @ St. Mary's St., Boston, MA",
+        "Direction": "Inbound to Medical Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10061,
+          42.349159
+        ]
+      },
+      "properties": {
+        "Stop Number": "M4",
+        "Stop Name": "Blandford St.",
+        "Street Address": "Commonwealth Ave. & Blandford St., Boston, MA",
+        "Direction": "Inbound to Medical Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.095221,
+          42.348777
+        ]
+      },
+      "properties": {
+        "Stop Number": "M5",
+        "Stop Name": "Hotel Commonwealth",
+        "Street Address": "500 Commonwealth Ave., Boston, MA",
+        "Direction": "Inbound to Medical Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.088133,
+          42.347941
+        ]
+      },
+      "properties": {
+        "Stop Number": "M6",
+        "Stop Name": "Hynes T Station (S)",
+        "Street Address": "Hynes T Station, Boston, MA",
+        "Direction": "Inbound to Medical Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.084719,
+          42.342618
+        ]
+      },
+      "properties": {
+        "Stop Number": "M7",
+        "Stop Name": "Huntington Ave.",
+        "Street Address": "Massachusetts Ave. @ Huntington Ave., Boston, MA",
+        "Direction": "Inbound to Medical Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.071104,
+          42.335147
+        ]
+      },
+      "properties": {
+        "Stop Number": "M8",
+        "Stop Name": "710 Albany St.",
+        "Street Address": "710 Albany Street, Boston, MA",
+        "Direction": "Inbound to Medical Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.071104,
+          42.335147
+        ]
+      },
+      "properties": {
+        "Stop Number": "C1",
+        "Stop Name": "710 Albany St.",
+        "Street Address": "710 Albany Street, Boston, MA",
+        "Direction": "Outbound to Charles River Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.085096,
+          42.342947
+        ]
+      },
+      "properties": {
+        "Stop Number": "C2",
+        "Stop Name": "Huntington Ave.",
+        "Street Address": "Massachusetts Ave. @ Huntington Ave., Boston, MA",
+        "Direction": "Outbound to Charles River Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.088025,
+          42.347982
+        ]
+      },
+      "properties": {
+        "Stop Number": "C3",
+        "Stop Name": "Hynes T Station (N)",
+        "Street Address": "Hynes T Station, Boston, MA",
+        "Direction": "Outbound to Charles River Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09022,
+          42.35068
+        ]
+      },
+      "properties": {
+        "Stop Number": "C4",
+        "Stop Name": "Danielsen Hall",
+        "Street Address": "512 Beacon St., Boston, MA",
+        "Direction": "Outbound to Charles River Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.094325,
+          42.349562
+        ]
+      },
+      "properties": {
+        "Stop Number": "C5",
+        "Stop Name": "Myles Standish",
+        "Street Address": "610 Beacon St., Boston, MA",
+        "Direction": "Outbound to Charles River Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.100609,
+          42.34944
+        ]
+      },
+      "properties": {
+        "Stop Number": "C6",
+        "Stop Name": "Silber Way",
+        "Street Address": "Commonwealth Ave. @ Silber Way, Boston, MA",
+        "Direction": "Outbound to Charles River Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.106553,
+          42.350155
+        ]
+      },
+      "properties": {
+        "Stop Number": "C7",
+        "Stop Name": "Marsh Plaza",
+        "Street Address": "735 Comm. Ave., Boston, MA",
+        "Direction": "Outbound to Charles River Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.115756,
+          42.351238
+        ]
+      },
+      "properties": {
+        "Stop Number": "C8",
+        "Stop Name": "Comm. Ave. @ Buick St.",
+        "Street Address": "Comm. Ave. @ Buick St., Boston, MA",
+        "Direction": "Outbound to Charles River Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.117567,
+          42.353547
+        ]
+      },
+      "properties": {
+        "Stop Number": "C9",
+        "Stop Name": "Student Village 2",
+        "Street Address": "33 Harry Agganis Way, Boston, MA",
+        "Direction": "Outbound to Charles River Campus"
+      }
+    }
+  ]
+}
