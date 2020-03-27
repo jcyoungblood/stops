@@ -1,0 +1,275 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.118104,42.353171 ]
+    },
+    "properties": {
+    "stop_id":2160536,
+    "stop_code":"",
+    "stop_name":"Agganis Way",
+    "stop_desc":"33 Harry Agganis Way",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.113374,42.35067 ]
+    },
+    "properties": {
+    "stop_id":2160537,
+    "stop_code":"",
+    "stop_name":"Amory Street",
+    "stop_desc":"Comm Ave @ Amory St",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.106392,42.349794 ]
+    },
+    "properties": {
+    "stop_id":2160540,
+    "stop_code":"",
+    "stop_name":"St. Mary's Street",
+    "stop_desc":"Comm Ave @ St Mary's St",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.099633,42.349009 ]
+    },
+    "properties": {
+    "stop_id":2160541,
+    "stop_code":"",
+    "stop_name":"Blandford Street",
+    "stop_desc":"Comm Ave @ Blandford St",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.095525,42.348724 ]
+    },
+    "properties": {
+    "stop_id":2160545,
+    "stop_code":"",
+    "stop_name":"Kenmore Square",
+    "stop_desc":"500 Commonwealth Ave",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.088162,42.347978 ]
+    },
+    "properties": {
+    "stop_id":2160548,
+    "stop_code":"",
+    "stop_name":"Hynes T Station SB",
+    "stop_desc":"Mass Ave @ Newbury St",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.08471,42.342483 ]
+    },
+    "properties": {
+    "stop_id":2160546,
+    "stop_code":"",
+    "stop_name":"Huntington Ave SB",
+    "stop_desc":"Mass Ave @ Huntington Ave",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.070892,42.335297 ]
+    },
+    "properties": {
+    "stop_id":2160527,
+    "stop_code":"",
+    "stop_name":"BU Medical Campus",
+    "stop_desc":"710 Albany St",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.084246,42.342489 ]
+    },
+    "properties": {
+    "stop_id":2160528,
+    "stop_code":"",
+    "stop_name":"Huntington Ave NB",
+    "stop_desc":"Mass Ave @ Huntington Ave",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.087944,42.348031 ]
+    },
+    "properties": {
+    "stop_id":2160547,
+    "stop_code":"",
+    "stop_name":"Hynes T Station NB",
+    "stop_desc":"Mass Ave @ Newbury St",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.090475,42.350667 ]
+    },
+    "properties": {
+    "stop_id":2160529,
+    "stop_code":"",
+    "stop_name":"Danielsen Hall",
+    "stop_desc":"512 Beacon St",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.094372,42.349631 ]
+    },
+    "properties": {
+    "stop_id":2160530,
+    "stop_code":"",
+    "stop_name":"Myles Standish Hall",
+    "stop_desc":"610 Beacon St",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.100737,42.349507 ]
+    },
+    "properties": {
+    "stop_id":2160531,
+    "stop_code":"",
+    "stop_name":"Silber Way",
+    "stop_desc":"Comm Ave @ Silber Way",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.106337,42.350159 ]
+    },
+    "properties": {
+    "stop_id":2160533,
+    "stop_code":"",
+    "stop_name":"Marsh Plaza",
+    "stop_desc":"735 Comm Ave",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.11594,42.351409 ]
+    },
+    "properties": {
+    "stop_id":2160535,
+    "stop_code":"",
+    "stop_name":"Buick Street",
+    "stop_desc":"Comm Ave @ Buick St",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":1
+    }
+  }
+]
+}
