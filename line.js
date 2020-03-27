@@ -2,10 +2,7 @@ var d3 = require("d3");
 var turf = require("@turf/turf")
 var fs = require('fs');
 
-
-//var data = fs.readFileSync('stops.csv');
-
-fs.readFile("stops.csv", "utf8", function(error, data) {
+fs.readFile("route.csv", "utf8", function(error, data) {
   data = d3.csvParse(data);
   console.log(data);
 
