@@ -1,0 +1,1175 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.064325,42.376956 ]
+    },
+    "properties": {
+    "stop_id":70,
+    "stop_code":82,
+    "stop_name":"Charlestown Health Ctr (High St.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.058063,42.38224 ]
+    },
+    "properties": {
+    "stop_id":73,
+    "stop_code":51,
+    "stop_name":"CHHC South Lot",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.073519,42.332321 ]
+    },
+    "properties": {
+    "stop_id":46,
+    "stop_code":45,
+    "stop_name":"BWH - Crosstown Garage",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.100142,42.336069 ]
+    },
+    "properties": {
+    "stop_id":47,
+    "stop_code":46,
+    "stop_name":"Huntington & Longwood 2",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.104737,42.334349 ]
+    },
+    "properties": {
+    "stop_id":76,
+    "stop_code":113,
+    "stop_name":"Huntington & Francis",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.107766,42.335999 ]
+    },
+    "properties": {
+    "stop_id":13,
+    "stop_code":13,
+    "stop_name":"BWH (Francis St.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.104196,42.334284 ]
+    },
+    "properties": {
+    "stop_id":44,
+    "stop_code":42,
+    "stop_name":"Brigham Circle",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.099796,42.335933 ]
+    },
+    "properties": {
+    "stop_id":45,
+    "stop_code":43,
+    "stop_name":"Huntington & Longwood 1",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.076272,42.383363 ]
+    },
+    "properties": {
+    "stop_id":58,
+    "stop_code":58,
+    "stop_name":"Sullivan Sq.",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.081739,42.376107 ]
+    },
+    "properties": {
+    "stop_id":59,
+    "stop_code":64,
+    "stop_name":"121 Innerbelt Rd.",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.067734,42.363907 ]
+    },
+    "properties": {
+    "stop_id":77,
+    "stop_code":114,
+    "stop_name":"MGH (Blossom St.) Jackson Doors",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.083482,42.345986 ]
+    },
+    "properties": {
+    "stop_id":11,
+    "stop_code":11,
+    "stop_name":"Prudential",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.095484,42.345362 ]
+    },
+    "properties": {
+    "stop_id":12,
+    "stop_code":12,
+    "stop_name":"1249 Boylston St.",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.179031,42.325906 ]
+    },
+    "properties": {
+    "stop_id":24,
+    "stop_code":27,
+    "stop_name":"BWH (Chestnut Hill Lot - Temple)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.178205,42.323296 ]
+    },
+    "properties": {
+    "stop_id":25,
+    "stop_code":28,
+    "stop_name":"BWH (Chestnut Hill Lot - Mall)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.148821,42.326236 ]
+    },
+    "properties": {
+    "stop_id":26,
+    "stop_code":29,
+    "stop_name":"BWH (850 Boylston St.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.128504,42.329542 ]
+    },
+    "properties": {
+    "stop_id":27,
+    "stop_code":30,
+    "stop_name":"Kennard Rd.",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.117009,42.332738 ]
+    },
+    "properties": {
+    "stop_id":28,
+    "stop_code":18,
+    "stop_name":"Brookline Village T Stop",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.115966,42.35053 ]
+    },
+    "properties": {
+    "stop_id":52,
+    "stop_code":78,
+    "stop_name":"900 Commonwealth Ave.",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.093679,42.359265 ]
+    },
+    "properties": {
+    "stop_id":53,
+    "stop_code":54,
+    "stop_name":"MIT",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.100497,42.360501 ]
+    },
+    "properties": {
+    "stop_id":54,
+    "stop_code":57,
+    "stop_name":"65 Landsdowne St.",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.079018,42.392027 ]
+    },
+    "properties": {
+    "stop_id":49,
+    "stop_code":48,
+    "stop_name":"Partners Assembly Row Shuttles",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.063957,42.36236 ]
+    },
+    "properties": {
+    "stop_id":2,
+    "stop_code":2,
+    "stop_name":"MGH (50 Staniford St.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.06049,42.365633 ]
+    },
+    "properties": {
+    "stop_id":3,
+    "stop_code":3,
+    "stop_name":"North Station",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.060194,42.372235 ]
+    },
+    "properties": {
+    "stop_id":10,
+    "stop_code":10,
+    "stop_name":"CNY (Chelsea & Warren St.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.056088,42.375359 ]
+    },
+    "properties": {
+    "stop_id":5,
+    "stop_code":5,
+    "stop_name":"CNY - Gate 4",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.051274,42.379103 ]
+    },
+    "properties": {
+    "stop_id":6,
+    "stop_code":6,
+    "stop_name":"CNY - Building 114",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.051776,42.377718 ]
+    },
+    "properties": {
+    "stop_id":7,
+    "stop_code":7,
+    "stop_name":"CNY - Building 149",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.054147,42.37515 ]
+    },
+    "properties": {
+    "stop_id":8,
+    "stop_code":8,
+    "stop_name":"IHP (1st & 7th St.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.060768,42.372094 ]
+    },
+    "properties": {
+    "stop_id":4,
+    "stop_code":4,
+    "stop_name":"CNY - Gate1 (Chelsea St at Warren St)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.070665,42.36166 ]
+    },
+    "properties": {
+    "stop_id":9,
+    "stop_code":9,
+    "stop_name":"Charles/MGH Red Line",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.205814,42.322374 ]
+    },
+    "properties": {
+    "stop_id":78,
+    "stop_code":120,
+    "stop_name":"Newton Highlands MBTA*",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.215621,42.303014 ]
+    },
+    "properties": {
+    "stop_id":51,
+    "stop_code":50,
+    "stop_name":"254 Second Ave. Needham",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.241687,42.332251 ]
+    },
+    "properties": {
+    "stop_id":60,
+    "stop_code":69,
+    "stop_name":"Woodland Garage",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.245496,42.33167 ]
+    },
+    "properties": {
+    "stop_id":61,
+    "stop_code":70,
+    "stop_name":"NWH (2014 Washington St.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.261247,42.325297 ]
+    },
+    "properties": {
+    "stop_id":62,
+    "stop_code":71,
+    "stop_name":"25 Washington St.",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.068371,42.363924 ]
+    },
+    "properties": {
+    "stop_id":1,
+    "stop_code":1,
+    "stop_name":"MGH (Blossom St.) Gray Doors",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.034119,42.392559 ]
+    },
+    "properties": {
+    "stop_id":34,
+    "stop_code":33,
+    "stop_name":"Bellingham Sq.",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.039496,42.396106 ]
+    },
+    "properties": {
+    "stop_id":35,
+    "stop_code":35,
+    "stop_name":"Chelsea Health Ctr (151 Everett Ave.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.040941,42.394101 ]
+    },
+    "properties": {
+    "stop_id":37,
+    "stop_code":39,
+    "stop_name":"Chelsea Health Ctr (100 Everett Ave.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.992042,42.407934 ]
+    },
+    "properties": {
+    "stop_id":38,
+    "stop_code":53,
+    "stop_name":"Revere Health Ctr (300 Ocean Ave.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.063977,42.365989 ]
+    },
+    "properties": {
+    "stop_id":74,
+    "stop_code":102,
+    "stop_name":"TD Garden - Garage",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.063749,42.367028 ]
+    },
+    "properties": {
+    "stop_id":14,
+    "stop_code":40,
+    "stop_name":"MGH (Nashua St. - Lot)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.064798,42.367697 ]
+    },
+    "properties": {
+    "stop_id":15,
+    "stop_code":14,
+    "stop_name":"MGH (125 Nashua St. - Rear)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.070895,42.3678 ]
+    },
+    "properties": {
+    "stop_id":17,
+    "stop_code":16,
+    "stop_name":"Museum of Science",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.070659,42.36262 ]
+    },
+    "properties": {
+    "stop_id":18,
+    "stop_code":19,
+    "stop_name":"MEEI (Charles St.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.058636,42.362336 ]
+    },
+    "properties": {
+    "stop_id":19,
+    "stop_code":17,
+    "stop_name":"Haymarket",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.05683,42.407419 ]
+    },
+    "properties": {
+    "stop_id":40,
+    "stop_code":41,
+    "stop_name":"Everett Health Center (19 Norwood St.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.050946,42.378248 ]
+    },
+    "properties": {
+    "stop_id":43,
+    "stop_code":56,
+    "stop_name":"Spaulding (300 1st Ave.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.038119,42.37204 ]
+    },
+    "properties": {
+    "stop_id":41,
+    "stop_code":47,
+    "stop_name":"East Boston Health Ctr (10 Gove St.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.979846,42.381741 ]
+    },
+    "properties": {
+    "stop_id":42,
+    "stop_code":76,
+    "stop_name":"Winthrop Senior Center",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.091838,42.363796 ]
+    },
+    "properties": {
+    "stop_id":56,
+    "stop_code":60,
+    "stop_name":"400 Tech Sq.",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.089154,42.362738 ]
+    },
+    "properties": {
+    "stop_id":55,
+    "stop_code":59,
+    "stop_name":"Broad Institute",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.129125,42.301683 ]
+    },
+    "properties": {
+    "stop_id":31,
+    "stop_code":25,
+    "stop_name":"Faulkner Centre St.",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.130139,42.298967 ]
+    },
+    "properties": {
+    "stop_id":32,
+    "stop_code":26,
+    "stop_name":"Trinity Lot",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.116384,42.332332 ]
+    },
+    "properties": {
+    "stop_id":29,
+    "stop_code":15,
+    "stop_name":"10 Brookline Pl.",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.128488,42.329705 ]
+    },
+    "properties": {
+    "stop_id":30,
+    "stop_code":22,
+    "stop_name":"Clark Rd.",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.171775,42.275471 ]
+    },
+    "properties": {
+    "stop_id":33,
+    "stop_code":32,
+    "stop_name":"West Roxbury VA",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.013488,42.408404 ]
+    },
+    "properties": {
+    "stop_id":39,
+    "stop_code":37,
+    "stop_name":"300 Broadway",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.01138,42.410051 ]
+    },
+    "properties": {
+    "stop_id":75,
+    "stop_code":112,
+    "stop_name":"Revere Health Ctr (385 Broadway)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.065655,42.37636 ]
+    },
+    "properties": {
+    "stop_id":68,
+    "stop_code":62,
+    "stop_name":"Main St.",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.053615,42.364694 ]
+    },
+    "properties": {
+    "stop_id":72,
+    "stop_code":83,
+    "stop_name":"North End Health Ctr Boston (Hanover St.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.053361,42.36218 ]
+    },
+    "properties": {
+    "stop_id":71,
+    "stop_code":101,
+    "stop_name":"North End Nursing Home (Fulton St.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.056873,42.377862 ]
+    },
+    "properties": {
+    "stop_id":69,
+    "stop_code":61,
+    "stop_name":"North End Health Ctr Charlestown (Tufts St.)",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.056141,42.351857 ]
+    },
+    "properties": {
+    "stop_id":48,
+    "stop_code":77,
+    "stop_name":"South Station",
+    "stop_desc":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"",
+    "stop_timezone":"",
+    "wheelchair_boarding":""
+    }
+  }
+]
+}
